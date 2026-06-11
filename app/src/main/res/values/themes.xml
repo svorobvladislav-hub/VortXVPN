@@ -1,0 +1,1 @@
+<resources><style name="Theme.VortXVPN" parent="android:Theme.Material.NoActionBar"><item name="android:statusBarColor">@color/dark_bg</item></style></resources>
